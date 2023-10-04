@@ -39,3 +39,10 @@ Este texto esta en **_negrita y cursiva_**.
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
 [Esto es una imagen del bosque](https://github.com/jordireyes2003/ASIX1M4UF1-A3apuntes/blob/main/IMG_20201016_201907.jpg "Titulo opcional de la imagen")
+
+|Primera Col.|Segunda Col.|3 Col.|
+|---------------|:------------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX|M4|
